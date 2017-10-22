@@ -42,7 +42,7 @@ class FinishGoalVC: UIViewController, UITextFieldDelegate {
         self.goalType = type
     }
     
-    func save(completion: (_ finished: Bool) -> () ) {
+    func save(completion: CompletionHandlerBool ) {
         guard let managedContext = appDelegate?.persistentContainer.viewContext else { return }
         let goal = Goal(context: managedContext)
         

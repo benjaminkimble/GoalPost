@@ -28,7 +28,8 @@
 
 <hr>
 
-<p>THIS IS WHERE THE SCREENS GO &lt; WUB WUB WUB WUB &gt;</p>
+<img src="./Create%20Goal%And%20Increment.gif" width="350"/>
+<img src="./Complete%20Goal.gif" width="350"/>
 
 <hr>
 
